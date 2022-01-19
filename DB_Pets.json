@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c4"
+  },
+  "type": "Dog",
+  "name": "Bradley",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640557174753-444562143-dog_1.jpg",
+  "height": 14,
+  "weight": 75,
+  "color": "White/Blue",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Pit Bull Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c5"
+  },
+  "type": "Cat",
+  "name": "Rajah",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640614714361-505066079-cat_1.jpg",
+  "height": 4,
+  "weight": 65,
+  "color": "Brown Tabby",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c6"
+  },
+  "type": "Cat",
+  "name": "Pebbles",
+  "adoptionStatus": "Fostered",
+  "picture": "http://localhost:5000/static/1640614837081-439300389-cat_2.jpg",
+  "height": 84,
+  "weight": 75,
+  "color": "Calico",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c7"
+  },
+  "type": "Dog",
+  "name": "Johnny",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640613259518-643839046-dog_2.jpg",
+  "height": 66,
+  "weight": 88,
+  "color": "Blue/White",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Pit Bull"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c8"
+  },
+  "type": "Cat",
+  "name": "Miso",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640614889542-119711257-cat_3.jpg",
+  "height": 26,
+  "weight": 8,
+  "color": "Brown Tabby/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099c9"
+  },
+  "type": "Turtle",
+  "name": "Lucky Charm",
+  "adoptionStatus": "Fostered",
+  "picture": "http://localhost:5000/static/1640616823288-605536860-turtle_1.jpg",
+  "height": 10,
+  "weight": 69,
+  "color": "Orange Tabby",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099ca"
+  },
+  "type": "Dog",
+  "name": "Megatron",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640613426714-484289251-dog_3.jpg",
+  "height": 44,
+  "weight": 14,
+  "color": "Red",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Dachshund/Chihuahua Shorthair"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099cb"
+  },
+  "type": "Turtle",
+  "name": "Moomoo",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640616868622-5580726-turtle_2.jpg",
+  "height": 98,
+  "weight": 96,
+  "color": "White/Black",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "French Bulldog/Pit Bull"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099cc"
+  },
+  "type": "Dog",
+  "name": "Lindi",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640613570333-517604773-dog_4.jpg",
+  "height": 94,
+  "weight": 67,
+  "color": "Black/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Pit Bull Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099cd"
+  },
+  "type": "Dog",
+  "name": "Church",
+  "adoptionStatus": "Fostered",
+  "picture": "http://localhost:5000/static/1640613668433-332518713-dog_5.jpg",
+  "height": 97,
+  "weight": 17,
+  "color": "Brown Brindle",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Plott Hound Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099ce"
+  },
+  "type": "Cat",
+  "name": "Huncho",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640614928569-364648329-cat_4.jpg",
+  "height": 85,
+  "weight": 47,
+  "color": "White/Brown Tabby",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099cf"
+  },
+  "type": "Dog",
+  "name": "Calvin",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640613805072-588164196-dog_6.jpg",
+  "height": 40,
+  "weight": 90,
+  "color": "Tan/White",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Border Terrier Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d0"
+  },
+  "type": "Cat",
+  "name": "Sandi",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640615031891-43435131-cat_5.jpg",
+  "height": 52,
+  "weight": 39,
+  "color": "Torbie/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d1"
+  },
+  "type": "Turtle",
+  "name": "Bun Jovi",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640616901346-984258640-turtle_3.jpg",
+  "height": 48,
+  "weight": 1,
+  "color": "White",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Californian"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d2"
+  },
+  "type": "Cat",
+  "name": "Lucy",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640615065848-496268530-cat_6.jpg",
+  "height": 29,
+  "weight": 24,
+  "color": "Blue Tabby/White",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d3"
+  },
+  "type": "Turtle",
+  "name": "Frida",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640616943276-262189713-turtle_4.jpg",
+  "height": 28,
+  "weight": 36,
+  "color": "White/Black",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d4"
+  },
+  "type": "Cat",
+  "name": "Ozzy",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640615118358-92161106-cat_7.jpg",
+  "height": 43,
+  "weight": 61,
+  "color": "Blue Tabby/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Medium Hair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d5"
+  },
+  "type": "Dog",
+  "name": "Finnegan",
+  "adoptionStatus": "Fostered",
+  "picture": "http://localhost:5000/static/1640613863206-135799183-dog_7.jpg",
+  "height": 37,
+  "weight": 70,
+  "color": "Flame Point",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Siamese Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d6"
+  },
+  "type": "Turtle",
+  "name": "Spike",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640616988773-48972691-turtle_5.jpg",
+  "height": 56,
+  "weight": 95,
+  "color": "Black/White",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Chihuahua Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d7"
+  },
+  "type": "Dog",
+  "name": "Kash",
+  "adoptionStatus": "Fostered",
+  "picture": "http://localhost:5000/static/1640613987515-82773886-dog_8.jpg",
+  "height": 60,
+  "weight": 69,
+  "color": "Black",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Chihuahua Shorthair/Pomeranian"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d8"
+  },
+  "type": "Dog",
+  "name": "Cheyenne",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640614039976-753012693-dog_9.jpg",
+  "height": 33,
+  "weight": 75,
+  "color": "Blue/Tan",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Dachshund Wirehair/Miniature Poodle"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099d9"
+  },
+  "type": "Cat",
+  "name": "Jorge Mcfly",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640615163292-216713592-cat_8.jpg",
+  "height": 61,
+  "weight": 100,
+  "color": "Black/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099da"
+  },
+  "type": "Dog",
+  "name": "Sassy",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640614075151-230828039-dog_10.jpg",
+  "height": 44,
+  "weight": 29,
+  "color": "White/Brown",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Cairn Terrier Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099db"
+  },
+  "type": "Cat",
+  "name": "Gretchen",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640615198254-766071426-cat_9.jpg",
+  "height": 43,
+  "weight": 14,
+  "color": "Tortie",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099dc"
+  },
+  "type": "Dog",
+  "name": "Theo",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640614108932-958426840-dog_11.jpg",
+  "height": 90,
+  "weight": 68,
+  "color": "Tan/Black",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Swedish Vallhund Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099dd"
+  },
+  "type": "Dog",
+  "name": "Bessie",
+  "adoptionStatus": "Available",
+  "picture": "http://localhost:5000/static/1640614148376-551365407-dog_12.jpg",
+  "height": 57,
+  "weight": 72,
+  "color": "White/Brown",
+  "bio": "",
+  "hypoallergnic": true,
+  "dietery": [],
+  "breed": "Australian Cattle Dog Mix"
+},{
+  "_id": {
+    "$oid": "61c231575fa1eff4b93099de"
+  },
+  "type": "Cat",
+  "name": "Fern",
+  "adoptionStatus": "Adopted",
+  "picture": "http://localhost:5000/static/1640615232935-867537877-cat_10.jpg",
+  "height": 21,
+  "weight": 87,
+  "color": "Blue Tabby/White",
+  "bio": "",
+  "hypoallergnic": false,
+  "dietery": [],
+  "breed": "Domestic Shorthair Mix"
+}]
